@@ -6,7 +6,17 @@ This project implements a relational database schema for a banking environment. 
 
 
 ## 📈 Entity-Relationship Diagram
-![ERD Diagram](ERD_GlobalBank.png)
+![ERD Diagram](images/ERD_GlobalBank.png)
+
+## 📝 Scripts Overview
+1. [Database Schema](sql_scripts/01_schema.sql)
+2. [Triggers](sql_scripts/02_triggers.sql)
+3. [Indexes](sql_scripts/03_indexes.sql)
+4. [Views](sql_scripts/04_views.sql)
+5. [Stored Procedures](sql_scripts/05_stored_procedures.sql)
+6. [Data Insertion](sql_scripts/06_data_insertion.sql)
+7. [Analytical Queries](sql_scripts/07_analytical_queries.sql)
+8. [Transactions](sql_scripts/08_transactions.sql)
 
 
 ## 🛠️ Key Features
