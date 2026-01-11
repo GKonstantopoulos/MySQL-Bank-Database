@@ -57,3 +57,10 @@ Based on Chen Notation. Key entities & relationships:
 ## 🚦 SQL Triggers
 - **before_transaction_insert**: Checks if credit card has sufficient balance before purchase. If insufficient, raises a "SIGNAL SQLSTATE '45000'" and cancels the transaction.
 
+## 📥 How to Run
+1. Clone this repository
+2. Open MySQL Workbench
+3. Execute `sql_scripts/01_schema.sql` to create the database
+4. Sequentially run the other scripts in order
+
+
