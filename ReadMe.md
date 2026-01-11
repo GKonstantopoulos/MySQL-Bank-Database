@@ -45,5 +45,5 @@ Based on Chen Notation. Key entities & relationships:
 
 
 ## 🚦 SQL Triggers
-- **before_transaction_insert**: Checks if credit card has sufficient balance before purchase. If insufficient, raises a SIGNAL SQLSTATE '45000' and cancels the transaction.
+- **before_transaction_insert**: Checks if credit card has sufficient balance before purchase. If insufficient, raises a "SIGNAL SQLSTATE '45000'" and cancels the transaction.
 
