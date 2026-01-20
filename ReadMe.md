@@ -64,3 +64,5 @@ Based on Chen Notation. Key entities & relationships:
 4. Sequentially run the other scripts in order
 
 
+## 👤 Author
+**Georgios Konstantopoulos**
